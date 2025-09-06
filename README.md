@@ -1,6 +1,3 @@
-# sql-data-warehouse-project
-Building a mordern Data Warehouse with SQL Server, including ETL processes, data modeling and analytics.
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -38,11 +35,9 @@ This project involves:
 
 ## 🛠️ Important Links & Tools:
 
-Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[Git Repository](https://github.com/imranfakji/sql-data-warehouse-project):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-  
+- **[Git Repository](https://github.com/imranfakji/sql-data-warehouse-project/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+
 ---
 
 ## 🚀 Project Requirements
@@ -71,8 +66,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
-
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
@@ -97,8 +90,13 @@ data-warehouse-project/
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
 ```
+---
+
+## ☕ Stay Connected
+
+Let's stay in touch! Feel free to connect with me.
+
 ---
 
 ## 🛡️ License
@@ -107,6 +105,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Imran Fakji**. I’m a passionate Fresher with Very Good Data Analaytical and Data Engieering Knowledge!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Hi there! I'm **Imran Dildar Fakji**. I’m a passionate Data enthusiast with great knowledge and make working with data enjoyable and engaging!
